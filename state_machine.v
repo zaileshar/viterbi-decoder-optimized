@@ -8,3 +8,4 @@ module state_machine (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
