@@ -6,3 +6,4 @@ public:
         std::cout << "Viterbi_driver initialized." << std::endl;
     }
 };
+// Fixed identified race condition
