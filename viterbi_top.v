@@ -8,3 +8,4 @@ module viterbi_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 478ns
