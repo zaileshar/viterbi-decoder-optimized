@@ -8,3 +8,4 @@ module viterbi_tb (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
