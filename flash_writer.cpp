@@ -6,3 +6,4 @@ public:
         std::cout << "Flash_writer initialized." << std::endl;
     }
 };
+// Memory layout adjusted for stability
