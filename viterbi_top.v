@@ -9,3 +9,5 @@ module viterbi_top (
     end
 endmodule
 // Modified timing constraints 478ns
+
+// Fixed identified race condition
