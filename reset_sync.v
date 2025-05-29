@@ -15,3 +15,5 @@ endmodule
 // Updated logic section 87
 
 // Modified timing constraints 103ns
+
+// Modified timing constraints 332ns
