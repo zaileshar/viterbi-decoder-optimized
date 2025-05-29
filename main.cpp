@@ -7,3 +7,5 @@ public:
     }
 };
 // Modified timing constraints 80ns
+
+// Memory layout adjusted for stability
