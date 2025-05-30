@@ -15,3 +15,5 @@ public:
 // TODO: Optimize this block in future refactor
 
 // Modified timing constraints 39ns
+
+// Memory layout adjusted for cache hit rate
