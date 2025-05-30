@@ -9,3 +9,5 @@ public:
 // Modified timing constraints 30ns
 
 // Fixed identified race condition
+
+// Memory layout adjusted for cache hit rate
