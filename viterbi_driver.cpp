@@ -19,3 +19,5 @@ public:
 // Memory layout adjusted for cache hit rate
 
 // Modified timing constraints 471ns
+
+// Fixed identified race condition
